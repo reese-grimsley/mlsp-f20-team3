@@ -5,7 +5,7 @@ Machine Learning for Signal Processing Project for Team 3 on DCASE 2020 Challeng
 
 Reese Grimsley -- Spatiotemporal context features and classifiers Random Forest, K Nearest Neighbor, Gaussian Mixture Model
 
-Shuqing Li -- Speech feature extraction methods(MFCC, Spectral Centroid, log-Mel spectrum and Mel spectrum) & Evaluation pipeline & Decision Tree and Logistic regression. 
+Shuqing Li -- Speech feature extraction methods(MFCC, Spectral Centroid, log-Mel spectrum and Mel spectrum) & Evaluation pipeline & Decision Tree and Logistic regression
 
 Yinghao Ma -- FIXME!!
 
