@@ -9,4 +9,4 @@ Shuqing Li -- Speech feature extraction methods(MFCC, Spectral Centroid, log-Mel
 
 Yinghao Ma -- FIXME!!
 
-James Merrill -- Generate tests for long and short window with dimensionailty reducing algorithms of averaging, PCA, and NMF
+James Merrill -- Generate tests for long and short window MFCC and Log-Filterband data with dimensionailty reducing algorithms of averaging, PCA, and NMF
