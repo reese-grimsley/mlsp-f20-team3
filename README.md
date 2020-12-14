@@ -7,6 +7,6 @@ Reese Grimsley -- Spatiotemporal context features and classifiers Random Forest,
 
 Shuqing Li -- Speech feature extraction methods(MFCC, Spectral Centroid, log-Mel spectrum and Mel spectrum) & Evaluation pipeline & Decision Tree and Logistic regression
 
-Yinghao Ma -- FIXME!!
+Yinghao Ma -- classifiers AdaBoosting, Support Vector Machine with rbf kernel function(can be easily changed to others), Hidden Markov Model
 
 James Merrill -- Generate tests for long and short window MFCC and Log-Filterband data with dimensionailty reducing algorithms of averaging, PCA, and NMF
